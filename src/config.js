@@ -53,7 +53,7 @@ export const SOCIALS = [
  * Deployed base URL the QR code points to (GitHub Pages project site).
  * This is fixed so visitors can never change where the QR leads.
  */
-export const PUBLIC_BASE_URL = 'https://danfrankline65-png.github.io/follow'
+export const PUBLIC_BASE_URL = 'https://dantekin79-creator.github.io/follow'
 
 /** Path of the participant landing page (hash route). */
 export const ENTRY_PATH = '/follow'
